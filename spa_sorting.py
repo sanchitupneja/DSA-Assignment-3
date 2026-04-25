@@ -1,11 +1,5 @@
-# Name: Abhay Kumar
-# Roll No.: 2501730185
-# Section: A
-
 import random
 import time
-
-
 # INSERTION SORT
 def insertion_sort(arr):
     for i in range(1, len(arr)):
